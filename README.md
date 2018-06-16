@@ -1,17 +1,17 @@
-# My Spring Break Trip
+## My Spring Break Trip
 
-## Destination:
+#### Destination:
 Cabo, San Lucas, Mexico
 
-## Arrival Date:
+#### Arrival Date:
 * March 26
 
-## Trip Members
+#### Trip Members
 1. George Kelly
 2. Brendan Lay
 3. Sahand Sadri
 4. Troy Thomas
 5. Brett Stoffel
 
-## Departure Date
+#### Departure Date
 * April 1
