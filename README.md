@@ -2,7 +2,7 @@
 
 #### Destination:
 - Cabo, San Lucas, Mexico
-  - Riu Santa Fe Resort
+  - *Riu Santa Fe* Resort
 
 #### Arrival Date:
 * March 26
