@@ -1,7 +1,8 @@
 ## My Spring Break Trip
 
 #### Destination:
-Cabo, San Lucas, Mexico
+- Cabo, San Lucas, Mexico
+  -Riu Santa Fe Resort
 
 #### Arrival Date:
 * March 26
