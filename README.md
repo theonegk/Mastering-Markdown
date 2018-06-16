@@ -8,7 +8,7 @@
 * March 26
 
 #### Trip Members
-1. George Kelly
+1. **George Kelly**
 2. Brendan Lay
 3. Sahand Sadri
 4. Troy Thomas
